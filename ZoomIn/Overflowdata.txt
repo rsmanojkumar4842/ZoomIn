@@ -1,0 +1,12 @@
+CSS:
+Overflow:
+--> Overflow is the property used in Case Cading Style Sheets(CSS).This is used for any element in html
+for styling the excluded content in a page
+-->For every property we have different types of values in html.In the same way we have mainy four different types of values in Overflow property.
+There are:
+Visible:Used to check the content if the information has be extende it will shown up the data.
+Hidden:This is used while the data or content has been extentded in a page or container by using this value we can hidden the unused content.
+Scroll:The must imporatnt value and mainly used in this property is scroll.For the usage of scroll we can scroll down or left up the content in different ways in our page.
+Auto:It is like the similar to scroll we can see the content if the information has extended.
+
+1)This Overflow property has many features like Overflow-x.Overflow-y,Overflow-anchor,Overflow-wrap,Overflow-block
